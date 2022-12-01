@@ -131,7 +131,7 @@ void loop()
         progButtonState = true;
     }
 
-    /*
+
         // Handle Reset History by long prog button press
         static uint32_t progButtonPressedTimer = 0;
         static bool historyReset = false;
@@ -178,7 +178,7 @@ void loop()
         else {
             timerProgMode = 0;
         }
-    */
+
 
     // Handle reception blinking led (2s cycle with 0.5s On while receiving Teleinfo data)
     
