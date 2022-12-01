@@ -62,19 +62,19 @@ cobbled together on a board that needs to be cut in three parts and assembled.
 The folder hardware contain the kicad files and the gerber/bom/cpl files that can be sent to [JLCPCB](https://jlcpcb.com/).
 The fabrication output is a board 
 
-<a href="assets/IMG_6133.png?raw=true"><img  src="assets/IMG_6133.png?raw=true" width="500px"><br/></a>
+[<img  src="assets/IMG_6133.png?raw=true" width="500px">](assets/IMG_6133.png)
 
 ## Hardware assembly
 
 The board then needs to be cut in three parts.
 
-<a href="assets/IMG_6134.png?raw=true"><img src="assets/IMG_6134.png?raw=true" width="500px"><br/></a>
+[<img src="assets/IMG_6134.png?raw=true" width="500px">](assets/IMG_6134.png)
 
 The assembly should be fairly self explanatory with teh silk screen. There are two unsused pins on the main board reserver for future use.
 
 Once assembled the board looks like this
 
-<a href="assets/IMG_6135.png?raw=true"><img src="assets/IMG_6135.png?raw=true" width="500px"><br/></a>
+[<img src="assets/IMG_6135.png?raw=true" width="500px">](assets/IMG_6135.png)
 
 And fits into a [DIN Rail Box Size 1 from RS PRO](https://docs.rs-online.com/575c/A700000006545717.pdf). This can be ordered [here](https://fr.rs-online.com/web/p/boitiers-rail-din/1947577?cm_mmc=FR-PLA-DS3A-_-google-_-CSS_FR_FR_Boitiers_%26_coffrets_et_armoires_Whoop-_-(FR:Whoop!)+Bo%C3%AEtiers+rail+DIN-_-1947577&matchtype=&pla-305134126740&gclsrc=ds&gclsrc=ds).
 
