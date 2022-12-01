@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model W25Q64JVXGIQ
+#/16596255/1005631/2.49/9/2/Integrated Circuit
+DEF W25Q64JVXGIQ IC 0 30 Y Y 1 F N
+F0 "IC" 2050 300 50 H V L CNN
+F1 "W25Q64JVXGIQ" 2050 200 50 H V L CNN
+F2 "SON80P400X400X50-9N" 2050 100 50 H I L CNN
+F3 "https://www.winbond.com/hq/search-resource-file.jsp?partNo=W25Q64JVXGIQ&type=datasheet" 2050 0 50 H I L CNN
+F4 "64M-bit Serial Flash Memory with uniform 4KB sectors and Dual/Quad SPI" 2050 -100 50 H I L CNN "Description"
+F5 "0.5" 2050 -200 50 H I L CNN "Height"
+F6 "Winbond" 2050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "W25Q64JVXGIQ" 2050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 2050 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 2050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 2050 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 2050 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 2050 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 2050 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ~CS 1 0 0 200 R 50 50 0 0 P
+X DO(IO1) 2 0 -100 200 R 50 50 0 0 P
+X ~WP(IO2) 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X EP 9 1100 -800 200 U 50 50 0 0 P
+X VCC 8 2200 0 200 L 50 50 0 0 P
+X ~HOLD_OR_~RESET_(IO3) 7 2200 -100 200 L 50 50 0 0 P
+X CLK 6 2200 -200 200 L 50 50 0 0 P
+X DI(IO0) 5 2200 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 2000 100 2000 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

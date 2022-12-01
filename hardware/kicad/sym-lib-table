@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "2022-10-30_19-40-08")(type "KiCad")(uri "${KIPRJMOD}/Libraries/2022-10-30_19-40-08.kicad_sym")(options "")(descr ""))
+  (lib (name "KNXCurrent-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/KNXCurrent-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit ItsyBitsy M0-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit ItsyBitsy M0-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit ItsyBitsy M4-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit ItsyBitsy M4-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "VLS5045EX-3R3N")(type "KiCad")(uri "${KIPRJMOD}/Libraries/VLS5045EX-3R3N.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit ItsyBitsy RP2040-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit ItsyBitsy RP2040-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "W25Q64JVXGIQ")(type "KiCad")(uri "${KIPRJMOD}/Libraries/W25Q64JVXGIQ.kicad_sym")(options "")(descr ""))
+)
